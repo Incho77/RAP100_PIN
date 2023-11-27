@@ -1,0 +1,4 @@
+@EndUserText.label: 'Travel'
+define service ZUI_RAP100_ATRAVPIN_O4 {
+  expose ZC_RAP100_ATRAVPIN;
+}
